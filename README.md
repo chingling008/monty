@@ -1,2 +1,2 @@
 # monty
-lifo, fifo
+alll things lifo, fifo
